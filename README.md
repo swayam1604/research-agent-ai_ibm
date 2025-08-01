@@ -51,7 +51,8 @@ GitHub: [swayam1604](https://github.com/swayam1604)
 
 ## 🎓 Certifications
 
-IBM SkillsBuild – Getting Started with AI and  Journey to Cloud: Envisioning Your Solution 
+IBM SkillsBuild – Getting Started with AI and 
+Journey to Cloud: Envisioning Your Solution 
 IBM Watsonx – RAG Lab 
 
 ---
