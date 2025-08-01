@@ -51,11 +51,9 @@ GitHub: [swayam1604](https://github.com/swayam1604)
 
 ## 🎓 Certifications
 
-IBM SkillsBuild – Getting Started with AI  
-IBM Watsonx – RAG Lab (if completed)
+IBM SkillsBuild – Getting Started with AI and  Journey to Cloud: Envisioning Your Solution 
+IBM Watsonx – RAG Lab 
 
 ---
 
-## 📬 Submission Info
 
-Built as part of the IBM SkillsBuild for Academia Hackathon 2025 under the Agentic AI theme. Problem Statement 1 – Research Agent.
